@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Oscar Hernán Paruma Pabón]]></title>
   <subtitle><![CDATA[Software Developer]]></subtitle>
-  <link href="/blog/atom.xml" rel="self"/>
-  <link href="https://github.com/oscarparuma/blog/"/>
-  <updated>2014-11-25T23:53:17.710Z</updated>
-  <id>https://github.com/oscarparuma/blog/</id>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://oscarparuma.github.io/"/>
+  <updated>2014-11-26T00:08:58.669Z</updated>
+  <id>http://oscarparuma.github.io/</id>
   
   <author>
     <name><![CDATA[Oscar Hernán Paruma Pabón]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="https://github.com/oscarparuma/blog/posts/2014/11/23/hello-world/"/>
-    <id>https://github.com/oscarparuma/blog/posts/2014/11/23/hello-world/</id>
+    <link href="http://oscarparuma.github.io/posts/2014/11/23/hello-world/"/>
+    <id>http://oscarparuma.github.io/posts/2014/11/23/hello-world/</id>
     <published>2014-11-24T04:24:32.000Z</published>
     <updated>2014-11-24T04:25:40.000Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
