@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Software Developer]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://oscarparuma.github.io/"/>
-  <updated>2014-11-26T02:46:23.496Z</updated>
+  <updated>2014-11-26T03:03:02.298Z</updated>
   <id>http://oscarparuma.github.io/</id>
   
   <author>
@@ -15,11 +15,29 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Software Libre UN]]></title>
+    <title><![CDATA[SoftCioTec Slides]]></title>
+    <link href="http://oscarparuma.github.io/posts/2014/11/25/softciotecSlides/"/>
+    <id>http://oscarparuma.github.io/posts/2014/11/25/softciotecSlides/</id>
+    <published>2014-11-26T02:55:19.000Z</published>
+    <updated>2014-11-26T02:57:05.000Z</updated>
+    <content type="html"><![CDATA[<p>At <a href="http://oscarparuma.github.io/SoftCioTec.reveal.js" target="_blank" rel="external">this link</a> you can find the presentation (powered by reveal.js) about SoftCioTec.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>At <a href="http://oscarparuma.github.io/SoftCioTec.reveal.js" target="_blank" rel="external">this link</a> you can find the presentation]]>
+    </summary>
+    
+      <category term="softwarelibre_un" scheme="http://oscarparuma.github.io/tags/softwarelibre-un/"/>
+    
+      <category term="slides" scheme="http://oscarparuma.github.io/tags/slides/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[SoftCioTec Posts]]></title>
     <link href="http://oscarparuma.github.io/posts/2014/11/25/FirstPost/"/>
     <id>http://oscarparuma.github.io/posts/2014/11/25/FirstPost/</id>
     <published>2014-11-26T00:27:18.000Z</published>
-    <updated>2014-11-26T00:45:27.000Z</updated>
+    <updated>2014-11-26T02:58:16.000Z</updated>
     <content type="html"><![CDATA[<p>In this blog I will post my progress in the research of socio-technical aspects in software evolution.</p>
 ]]></content>
     <summary type="html">
